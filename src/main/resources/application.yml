@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: root
+    password: Ralphses1234
+    url: jdbc:mysql://localhost:3306/nbiss_app
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+

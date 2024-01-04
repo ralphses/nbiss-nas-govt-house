@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Unauthorized Access",
+    "dataAffected": "All sensitive information stored in the database"
+  },
+  {
+    "name": "SQL Injection",
+    "dataAffected": "Any data in the database vulnerable to manipulation"
+  },
+  {
+    "name": "Cross-Site Scripting (XSS)",
+    "dataAffected": "User sessions, personal information"
+  },
+  {
+    "name": "Cross-Site Request Forgery (CSRF)",
+    "dataAffected": "Any action a user can perform within the application"
+  },
+  {
+    "name": "Data Breach",
+    "dataAffected": "Personally Identifiable Information (PII), financial data"
+  },
+  {
+    "name": "Man-in-the-Middle (MitM) Attacks",
+    "dataAffected": "Any data transmitted between the application and users"
+  },
+  {
+    "name": "Denial of Service (DoS) Attacks",
+    "dataAffected": "Availability of the application and its services"
+  },
+  {
+    "name": "Phishing Attacks",
+    "dataAffected": "User credentials, personal information"
+  },
+  {
+    "name": "Brute Force Attacks",
+    "dataAffected": "User account credentials"
+  },
+  {
+    "name": "Insider Threats",
+    "dataAffected": "Any sensitive data accessible by insiders"
+  },
+  {
+    "name": "Eavesdropping",
+    "dataAffected": "Any data transmitted over networks"
+  },
+  {
+    "name": "Malware",
+    "dataAffected": "Any data accessible by the compromised system"
+  },
+  {
+    "name": "Zero-Day Exploits",
+    "dataAffected": "Any data accessible by exploiting vulnerabilities"
+  },
+  {
+    "name": "Session Hijacking",
+    "dataAffected": "User sessions, sensitive transactions"
+  },
+  {
+    "name": "DNS Spoofing",
+    "dataAffected": "User interactions, potentially sensitive information"
+  },
+  {
+    "name": "File Inclusion Exploits",
+    "dataAffected": "Any data accessible through included files"
+  },
+  {
+    "name": "API Security Issues",
+    "dataAffected": "Any data exposed or manipulated through APIs"
+  },
+  {
+    "name": "Data Loss",
+    "dataAffected": "Any sensitive data stored in the database"
+  },
+  {
+    "name": "Insecure Direct Object References (IDOR)",
+    "dataAffected": "Any data accessible through object references"
+  },
+  {
+    "name": "Unvalidated Redirects and Forwards",
+    "dataAffected": "User interactions, potentially sensitive information"
+  }
+]
+
